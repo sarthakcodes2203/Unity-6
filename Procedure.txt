@@ -1,0 +1,27 @@
+For creating new UNITY project>>
+Click on 'New project' in unity hub or select version from dropdown if any
+-Give a appropriate name without spaces in it
+-Allocate desired location or kept default
+-Select game template(2D,3D or other)
+
+
+Steps:-(DemoUnityProject1)>>>
+
+1.Create Folders in 'Assets' folder-
+>'models'-(DemoModel) for storing the objects visible on screen
+>'script'-for storing the CS scripts
+
+2.Make model visible-
+>Drag an object or model from assets folder and drop it on "Scene" Window
+
+3.Create Script-
+>Right click on 'Scripts' folder, then click 'create', then click 'MonoBehaviour Script'
+,,, then rename the script as required
+
+4.Add Script to model-
+> Click on 'add component' after selecting the model and search for script
+or
+>or drag and drop to the 'add component' section
+
+
+LINK : https://www.youtube.com/watch?v=qMQo_n1al50&list=PLBh8phtAyHPUY9fqgs1w6aHJALJ3_fMSc&index=44&ab_channel=FarhanAqeel
